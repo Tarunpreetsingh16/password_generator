@@ -1,0 +1,17 @@
+.checkboxesContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    box-shadow: 0.5rem 0.5rem 2rem black;
+    gap: 1rem;
+    padding: 1rem;
+}
+
+.mainScreen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}

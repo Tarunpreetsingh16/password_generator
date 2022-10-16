@@ -1,5 +1,4 @@
 import './App.css';
-import Label from './components/Label';
 import MainScreen from './pages/MainScreen';
 
 function App() {
